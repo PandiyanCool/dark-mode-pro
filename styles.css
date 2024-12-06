@@ -1,0 +1,72 @@
+body,
+html {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+a,
+a:visited {
+  color: #bb86fc !important;
+}
+
+header,
+nav,
+footer,
+section,
+article,
+aside,
+main,
+div,
+span,
+p,
+li,
+ul,
+ol,
+table,
+th,
+td,
+tr,
+form,
+input,
+textarea,
+button,
+select {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+  border-color: #333 !important;
+}
+
+img,
+video {
+  filter: brightness(0.8) !important;
+}
+
+::placeholder {
+  color: #888 !important;
+}
+
+input,
+textarea,
+button,
+select {
+  background-color: #333 !important;
+  color: #e0e0e0 !important;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  border: 1px solid #555 !important;
+}
+
+button {
+  background-color: #bb86fc !important;
+  color: #121212 !important;
+}
+
+button:hover {
+  background-color: #9c4dcc !important;
+}
+
+/* Add more styles as needed */
